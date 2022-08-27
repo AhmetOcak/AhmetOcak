@@ -13,6 +13,7 @@
 
 <p align="center"> <img src="https://acegif.com/wp-content/uploads/2021/06/acegifdotcom-unique-lightsabre-3.gif" width="540" /> </p>
 
+<!--
 ## 📊 GitHub Stats
 <div align="center">
 
@@ -20,6 +21,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmetOcak&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetOcak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
+-->
 
 
 ## 💻 Tech Stack
